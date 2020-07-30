@@ -46,7 +46,7 @@
 	},
 	"autoload": {
 		"psr-4": {
-			"Bahiirwa\WGitActions\\": "src/"
+			"Bahiirwa\\WGitActions\\": "src/"
 		}
 	},
 	"minimum-stability": "stable",
